@@ -1,7 +1,8 @@
-package com.fmedlin.prima.mvp.presenter;
+package com.fmedlin.khanplayer.mvp.presenter;
 
-import com.fmedlin.prima.mvp.presenter.FirstPresenter.FirstModel;
-import com.fmedlin.prima.mvp.presenter.FirstPresenter.FirstView;
+import com.fmedlin.khanplayer.mvp.presenter.FirstPresenter;
+import com.fmedlin.khanplayer.mvp.presenter.FirstPresenter.FirstModel;
+import com.fmedlin.khanplayer.mvp.presenter.FirstPresenter.FirstView;
 
 import org.junit.Before;
 import org.junit.Test;

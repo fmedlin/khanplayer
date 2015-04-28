@@ -1,4 +1,4 @@
-package com.fmedlin.prima;
+package com.fmedlin.khanplayer;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

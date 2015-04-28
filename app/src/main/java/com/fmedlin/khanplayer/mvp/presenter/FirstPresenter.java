@@ -1,4 +1,4 @@
-package com.fmedlin.prima.mvp.presenter;
+package com.fmedlin.khanplayer.mvp.presenter;
 
 public class FirstPresenter {
 
